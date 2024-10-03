@@ -1,0 +1,51 @@
+package Java_Features_Module.Java_8;
+
+import Java_Features_Module.BasePracticeRunner;
+
+public class C0_Java_8_Features implements BasePracticeRunner{
+
+	/*
+	 * Java 8 features:
+	 * ================
+	 * Stream API
+	 * Functional Programming
+	 * 		Lambda
+	 * 		Method References
+	 * 		Functional Interfaces
+	 * 			1. Function - takes input, does something and returns something
+	 * 				BiFunction
+	 * 			2. Predicate - takes input, does something and returns true or false
+	 * 			3. Consumer - takes input, does something and won't return anything
+	 * 				IntConsumer
+	 * 			4. Supplier - doesn't take any input, only returns something
+	 * 
+	 * 			builtin Functional Interfaces:
+	 * 			1. Runnable -> run()
+	 * 			2. Comparable -> compareTo()
+	 * 			3. ActionListener -> actionPerformed()
+	 * 			4. Callable -> call()
+	 * 
+	 * Optionals
+	 * 
+	 * CompletableFuture class for Multithreading
+	 * 		
+	 * 
+	 * Default methods inside Interfaces
+	 * Static methods inside Interfaces
+	 * 
+	 * Date and Time API
+	 * 		LocalDate
+	 * 		LocalTime
+	 *		LocalDateTime
+	 *		ZonedDateTime
+	 *
+	 * 
+	 * 
+	 */
+	
+	@Override
+	public void practiceRun() {
+		// TODO Auto-generated method stub
+		
+	}
+}

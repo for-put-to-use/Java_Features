@@ -1,6 +1,6 @@
 package Java_Features_Module.Java_8;
 
-public class StreamAPI {
+public class C1_StreamAPI {
 	
 	
 	/*
