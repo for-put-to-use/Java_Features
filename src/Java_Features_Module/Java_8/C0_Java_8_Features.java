@@ -1,8 +1,7 @@
 package Java_Features_Module.Java_8;
 
-import Java_Features_Module.BasePracticeRunner;
 
-public class C0_Java_8_Features implements BasePracticeRunner{
+public class C0_Java_8_Features {
 
 	/*
 	 * Java 8 features:
@@ -43,10 +42,4 @@ public class C0_Java_8_Features implements BasePracticeRunner{
 	 * 
 	 * 
 	 */
-	
-	@Override
-	public void practiceRun() {
-		// TODO Auto-generated method stub
-		
-	}
 }

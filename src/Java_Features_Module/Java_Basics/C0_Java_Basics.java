@@ -1,12 +1,10 @@
 package Java_Features_Module.Java_Basics;
 
-import Java_Features_Module.BasePracticeRunner;
-
 /*
  * Features introduced on of before Java 7
  */
 
-public class C0_Java_Basics implements BasePracticeRunner{
+public class C0_Java_Basics {
 	/*
 	 * OOPs Concepts
 	 * 		Abstraction
@@ -93,10 +91,4 @@ public class C0_Java_Basics implements BasePracticeRunner{
 	 * 		Checked and unchecked exceptions
 	 * 
 	 */
-	
-	@Override
-	public void practiceRun() {
-		// TODO Auto-generated method stub
-		
-	}
 }

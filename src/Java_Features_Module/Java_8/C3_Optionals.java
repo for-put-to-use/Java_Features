@@ -2,9 +2,7 @@ package Java_Features_Module.Java_8;
 
 import java.util.Optional;
 
-import Java_Features_Module.BasePracticeRunner;
-
-public class C3_Optionals implements BasePracticeRunner{
+public class C3_Optionals {
 	/*
 	 * To handle null values gracefully
 	 * It is mainly to avoid Null Pointer Exception which break the app at runtime.

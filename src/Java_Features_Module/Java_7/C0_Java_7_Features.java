@@ -1,8 +1,7 @@
 package Java_Features_Module.Java_7;
 
-import Java_Features_Module.BasePracticeRunner;
 
-public class C0_Java_7_Features implements BasePracticeRunner{
+public class C0_Java_7_Features {
 	
 	/*
 	 * Features introduced in Java 7
@@ -20,11 +19,5 @@ public class C0_Java_7_Features implements BasePracticeRunner{
 	 * 		emptyXXX() methods with generics
 	 * 
 	 */
-
-	@Override
-	public void practiceRun() {
-		// TODO Auto-generated method stub
-		
-	}
 
 }

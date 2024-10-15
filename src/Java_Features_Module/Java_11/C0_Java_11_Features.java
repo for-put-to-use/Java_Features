@@ -1,10 +1,9 @@
 package Java_Features_Module.Java_11;
 
-import Java_Features_Module.BasePracticeRunner;
 
 //usually package names are in small case
 
-public class C0_Java_11_Features implements BasePracticeRunner{
+public class C0_Java_11_Features{
 	
 	/*
 	 * HTTP Client API
@@ -14,11 +13,5 @@ public class C0_Java_11_Features implements BasePracticeRunner{
 	 * var keyword - Local Variable Type Inference
 	 * 
 	 */
-
-	@Override
-	public void practiceRun() {
-		// TODO Auto-generated method stub
-		
-	}
 
 }
