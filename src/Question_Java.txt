@@ -1,0 +1,76 @@
+Questions:
+
+Explain Multithreading in Java?
+
+Explain thread features introduced in Java 5 (1.5)?
+
+what is the initial ExecutorService (from Java 5)
+
+what is Reentrant lock in Java 5
+
+what are Runnable and Callable tasks? When are these 2 introduced in Java?
+
+Different types of Executor Pool types.
+
+Exception handling in Threads using ExecutorService
+
+Difference between Checked and unchecked exceptions
+
+Can Callable is used in Thread constrcutor like Runnable
+
+Explain Future in java
+
+Using Callable inside a Wrapper of Runnable to create a stand along Thread, 
+	using AtomicReference<T> to hold return value
+	
+Which collections are Thread safe?
+	when these Thread-safe collections are introduced in Java ?
+	What is BlockingQueue ?
+
+How CAS Compare-And-Swap technique prevents locking (eg: AtomicReference)
+
+AtomicReference can be used for Singleton DP ??
+
+what are other data structures in java.util.concurrent.atomic that use CAS.
+
+How Type Safety is maintained when using Wildcards in Java Generics
+
+Explain Type Erasure in Java Generics
+
+Is Number also a Wrapper class like Integer, Float ?
+
+Difference between using T and using ? in generics
+
+Explain Garbage collection
+
+how GC helps preventing memory leaks
+
+what are all possible memory leak situations in Java
+
+in which cases, we get Out of memory exception
+
+Does taking Heap Dump helps in identifying memory leaks? How ?
+
+What is PermGen and Metaspace
+
+which GC is preferred in a microservice ?
+
+explain weak references in java
+
+why listeners and callback methods stay in memory and causes memory leaks unless explicitly deregistered
+
+what is ThreadLocal variables
+
+how ThreadLocal can cause memory leaks
+
+how to use weak references in java and along with weak refs in collections as well.
+
+list all Collections utility methods present by Java version wise
+
+different types of Sets in Java
+
+different types of Arrays in java
+
+explain CountDownLatch
+explain Semaphore
+explain CyclicBarrier

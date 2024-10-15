@@ -27,8 +27,9 @@ public class C0_Java_8_Features implements BasePracticeRunner{
 	 * 
 	 * Optionals
 	 * 
-	 * CompletableFuture class for Multithreading
-	 * 		
+	 * Multithreading
+	 * 		CompletableFuture class for Multithreading
+	 * Parallel Streams
 	 * 
 	 * Default methods inside Interfaces
 	 * Static methods inside Interfaces

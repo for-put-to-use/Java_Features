@@ -18,5 +18,13 @@ public class C2_FunctionalInterfaces {
 	 * 		2. Comparable -> compareTo()
 	 * 		3. ActionListener -> actionPerformed()
 	 * 		4. Callable -> call()
+	 * Functional Interfaces
+	 * 		F,P,S->C
+	 * 		1. Function - takes input, does something and returns something
+	 * 			BiFunction
+	 * 		2. Predicate - takes input, does something and returns true or false
+	 * 		3. Consumer - takes input, does something and won't return anything
+	 * 			IntConsumer
+	 * 		4. Supplier - doesn't take any input, only returns something
 	 */
 }

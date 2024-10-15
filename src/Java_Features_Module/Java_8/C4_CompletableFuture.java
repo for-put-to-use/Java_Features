@@ -12,6 +12,9 @@ import Java_Features_Module.Java_11.C0_HttpClientApi;
  * 
  * basics
  * passing ThreadPoolExecutor to run on.
+ * 
+ * supply -> Supplier Fn
+ * accept -> Consumer Fn
  */
 
 public class C4_CompletableFuture {

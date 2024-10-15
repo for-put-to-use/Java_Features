@@ -16,6 +16,9 @@ public class C0_Java_7_Features implements BasePracticeRunner{
 	 * String in switch statements
 	 * Multicatch blocks
 	 * 
+	 * Collections utility class
+	 * 		emptyXXX() methods with generics
+	 * 
 	 */
 
 	@Override
